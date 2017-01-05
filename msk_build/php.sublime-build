@@ -1,0 +1,6 @@
+{
+    "path": "C:\\xampp\\php",
+    "cmd": ["php", "-l", "$file"], //(-lは文法エラーのチェック)
+    "selector": "source.php",
+    "encoding": "UTF-8"
+}

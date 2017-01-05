@@ -1,0 +1,43 @@
+[
+    // 基本操作
+    { "keys": ["ctrl+pagedown"], "command": "next_view_in_stack" },
+    { "keys": ["ctrl+pageup"], "command": "prev_view_in_stack" },
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+    { "keys": ["ctrl+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["ctrl+down"], "command": "select_lines", "args": {"forward": true} },
+    { "keys": ["ctrl+shift+a"], "command": "expand_selection", "args": {"to": "tag"} },
+    // Package: Browser Refresh
+    { "keys": ["f5"], "command": "browser_refresh", "args": {
+        "auto_save": true,
+        "delay": 0.0,
+        "activate": true,
+        "browsers" : ["chrome"] }},
+    // Package: ColorPicker
+    { "keys": ["ctrl+shift+c"], "command": "color_picker" },
+    // Package: Evernote
+    { "keys": ["ctrl+alt+e"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Evernote: "} },
+    // Package: Markdown Preview
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser"} },
+    // Package: SFTP
+    { "keys": ["ctrl+alt+u","ctrl+alt+y"], "command": "unbound" },
+    { "keys": ["ctrl+alt+u","ctrl+alt+n"], "command": "unbound" },
+    { "keys": ["ctrl+alt+u","ctrl+alt+o"], "command": "unbound" },
+    { "keys": ["ctrl+alt+u","ctrl+alt+e"], "command": "unbound" },
+    { "keys": ["ctrl+alt+u","ctrl+alt+d"], "command": "unbound" },
+    { "keys": ["ctrl+alt+u","ctrl+alt+b"], "command": "unbound" },
+    { "keys": ["ctrl+alt+u","ctrl+alt+c"], "command": "unbound" },
+    { "keys": ["ctrl+alt+r","ctrl+alt+s"], "command": "unbound" },
+    { "keys": ["ctrl+alt+r","ctrl+alt+b"], "command": "unbound" },
+    { "keys": ["ctrl+alt+r","ctrl+alt+n"], "command": "unbound" },
+    { "keys": ["ctrl+alt+r","ctrl+alt+e"], "command": "unbound" },
+    { "keys": ["ctrl+alt+r","ctrl+alt+d"], "command": "unbound" },
+    // Package: SublimeCodeIntel
+    { "keys": ["ctrl+alt+space"], "command": "code_intel_auto_complete" },
+    // Package: TortoiseSVN
+    { "keys": ["ctrl+alt+s","ctrl+alt+u"], "command": "svn_update" },
+    { "keys": ["ctrl+alt+s","ctrl+alt+c"], "command": "svn_commit" },
+    { "keys": ["ctrl+alt+s","ctrl+alt+r"], "command": "svn_revert" },
+    { "keys": ["ctrl+alt+s","ctrl+alt+l"], "command": "svn_log" },
+    { "keys": ["ctrl+alt+s","ctrl+alt+d"], "command": "svn_diff" },
+]

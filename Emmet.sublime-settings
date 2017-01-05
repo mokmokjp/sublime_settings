@@ -1,0 +1,4 @@
+{
+// TABキーによる展開を対象の言語の時に無効化する
+"disable_tab_abbreviations_for_scopes":"css,less,sass,scss,stylus"
+}

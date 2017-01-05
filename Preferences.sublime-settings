@@ -1,0 +1,32 @@
+{
+    // テーマ
+    "theme": "Soda Light 3.sublime-theme",
+    "soda_classic_tabs": true,
+    "soda_folder_icons": true,
+    // カラースキーム
+    "color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
+    // フォントや見た目
+    "font_face": "Consolas",
+    "font_size": 13,
+    "line_padding_top": 5,
+    "word_wrap": true,
+    "highlight_line": true,
+    // インデントとスペース
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "draw_white_space": "all",
+    "trim_trailing_white_space_on_save": true, // 保存時に行末の半角スペースを削除
+    "indent_to_bracket": true,
+    // 文字コード
+    "default_encoding": "UTF-8",
+    "fallback_encoding": "UTF-8",
+    "show_encoding": true,
+    // 改行コード
+    "default_line_ending": "system",
+    "show_line_endings": true,
+    // 無視するパッケージ
+    "ignored_packages":
+    [
+        "Vintage"
+    ]
+}
