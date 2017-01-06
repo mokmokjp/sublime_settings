@@ -17,6 +17,8 @@
     { "keys": ["ctrl+shift+c"], "command": "color_picker" },
     // Package: Evernote
     { "keys": ["ctrl+alt+e"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Evernote: "} },
+    // Package: IncrementSelection
+    { "keys": ["ctrl+alt+i"], "command": "increment_selection" },
     // Package: Markdown Preview
     { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser"} },
     // Package: SFTP
@@ -35,9 +37,20 @@
     // Package: SublimeCodeIntel
     { "keys": ["ctrl+alt+space"], "command": "code_intel_auto_complete" },
     // Package: TortoiseSVN
+    { "keys": ["alt+u"], "command": "unbound" },
+    { "keys": ["alt+c"], "command": "unbound" },
+    { "keys": ["alt+r"], "command": "unbound" },
+    { "keys": ["alt+l"], "command": "unbound" },
+    { "keys": ["alt+d"], "command": "unbound" },
     { "keys": ["ctrl+alt+s","ctrl+alt+u"], "command": "svn_update" },
     { "keys": ["ctrl+alt+s","ctrl+alt+c"], "command": "svn_commit" },
     { "keys": ["ctrl+alt+s","ctrl+alt+r"], "command": "svn_revert" },
     { "keys": ["ctrl+alt+s","ctrl+alt+l"], "command": "svn_log" },
     { "keys": ["ctrl+alt+s","ctrl+alt+d"], "command": "svn_diff" },
+    // Package: View In Browser
+    { "keys": ["ctrl+alt+v"], "command": "view_in_browser" },
+    { "keys": ["ctrl+alt+v","ctrl+alt+f"], "command": "view_in_browser", "args": { "browser": "firefox" } },
+    { "keys": ["ctrl+alt+v","ctrl+alt+c"], "command": "view_in_browser", "args": { "browser": "chrome" } },
+    { "keys": ["ctrl+alt+v","ctrl+alt+i"], "command": "view_in_browser", "args": { "browser": "iexplore" } },
+    { "keys": ["ctrl+alt+v","ctrl+alt+s"], "command": "view_in_browser", "args": { "browser": "safari" } }
 ]
