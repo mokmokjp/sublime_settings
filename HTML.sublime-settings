@@ -1,0 +1,5 @@
+// These settings override both User and Default settings for the HTML syntax
+{
+    // htmlファイルはタブをスペースに変換しない
+    "translate_tabs_to_spaces": false
+}
