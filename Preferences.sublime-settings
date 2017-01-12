@@ -6,6 +6,7 @@
     // カラースキーム
     "color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
     // フォントや見た目
+	"dpi_scale": 1.0,
     "font_face": "Consolas",
     "font_size": 13,
     "line_padding_top": 5,
