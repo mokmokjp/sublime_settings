@@ -1,5 +1,10 @@
 {
-	"shell": "true",
-	"cmd": ["msgfmt \"$file\" -o \"$file_path/$file_base_name.mo\""],
-    "selector": "source.po"
+    "shell": "true",
+    // msgfmtコマンドを使うために、カレントディレクトリを変更する
+    "working_dir": "$packages/User/gettext/bin/",
+    // msgfmtコマンドでpoファイルをmoファイルにコンパイルする
+    // https://www.gnu.org/software/gettext/manual/html_node/msgfmt-Invocation.html
+    "cmd": ["msgfmt", "$file", "-o", "$file_path/$file_base_name.mo"],
+    "selector": "source.po",
+    "encoding": "UTF-8"
 }
