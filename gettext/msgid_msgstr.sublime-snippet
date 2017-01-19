@@ -1,9 +1,12 @@
 <snippet>
     <content><![CDATA[
-<!--{t string="${1:msgid}"}-->
+
+msgid "${1:msgid}"
+msgstr "${2:msgstr}"
+
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>tstring</tabTrigger>
+    <tabTrigger>msgid_msgstr</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>text.html.smarty</scope>
+    <scope>source.po</scope>
 </snippet>

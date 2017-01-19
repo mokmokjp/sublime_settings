@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-<!--{t string="${1:msgid}"}-->
+<!--{t string="${1:msgid}" escape="${2:none}"}-->
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>tstring</tabTrigger>
+    <tabTrigger>tstring_escape</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>text.html.smarty</scope>
 </snippet>
