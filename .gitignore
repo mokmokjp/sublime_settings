@@ -1,14 +1,19 @@
-/encoding_cache.json
-/Package Control.cache/01524fae79697630d0454ba3fabd9414
-/Package Control.cache/01524fae79697630d0454ba3fabd9414.info
-/Package Control.last-run
-/Package Control.merged-ca-bundle
-/Package Control.system-ca-bundle
-/Package Control.user-ca-bundle
-ColorPicker
-/Color Highlighter/themes/Monokai Extended (SL).tmTheme
-/Color Highlighter/themes/Monokai Extended Origin (SL).tmTheme
-/Color Highlighter/themes/Monokai Soda (SL).tmTheme
-/SFTP.errors.log
-/1self.sublime-settings
-/oscrypto-ca-bundle.crt
+#以下の拡張子は無視
+*.errors.log
+
+# 以下のファイルは無視
+1self.sublime-settings
+encoding_cache.json
+oscrypto-ca-bundle.crt
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+
+# 以下のディレクトリ内は無視
+c2u_tmp/
+ColorPicker/
+Color Highlighter/themes/
+Color Highlighter/themes/
+Color Highlighter/themes/
+Package Control.cache/
