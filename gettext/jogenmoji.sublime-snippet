@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<!--{* 上限文字 *}--><!--{t string="tpl_(T_ARG1 characters max)_01" T_ARG1=\$smarty.const.${1:S,M,L}TEXT_LEN}-->
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>jogenmoji</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html.smarty</scope>
+</snippet>
