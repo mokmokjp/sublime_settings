@@ -10,6 +10,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Evernote",
 		"Vintage"
 	],
 	"indent_to_bracket": true,
