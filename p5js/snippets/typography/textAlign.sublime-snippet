@@ -2,8 +2,7 @@
     <content><![CDATA[
 textAlign(${1:LEFT, CENTER, or RIGHT}, ${2:TOP, BOTTOM, CENTER, or BASELIN});
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>pftextAlign</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <description>textAlign</description>
     <scope>source.js</scope>
+    <tabTrigger>textAlign</tabTrigger>
 </snippet>

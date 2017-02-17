@@ -2,8 +2,7 @@
     <content><![CDATA[
 noCanvas();
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>pfnoCanvas</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <description>noCanvas</description>
     <scope>source.js</scope>
+    <tabTrigger>noCanvas</tabTrigger>
 </snippet>

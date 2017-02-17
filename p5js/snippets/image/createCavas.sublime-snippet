@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createCanvas(${1:512}, ${2:512});]]></content>
-    <description>createCanvas</description>
-    <scope>source.js</scope>
-    <tabTrigger>createCanvas</tabTrigger>
-</snippet>
