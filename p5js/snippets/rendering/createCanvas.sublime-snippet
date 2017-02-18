@@ -2,7 +2,7 @@
     <content><![CDATA[
 createCanvas(${1:w}, ${2:h});
 ]]></content>
-    <description>createCanvas</description>
+    <description>p5:createCanvas</description>
     <scope>source.js</scope>
     <tabTrigger>createCanvas</tabTrigger>
 </snippet>

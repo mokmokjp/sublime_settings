@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[red(${1:color});]]></content>
-    <description>red</description>
+    <description>p5:red</description>
     <scope>source.js</scope>
     <tabTrigger>red</tabTrigger>
 </snippet>

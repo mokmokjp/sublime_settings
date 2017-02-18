@@ -7,7 +7,7 @@ function draw() {
 	$0
 }
 ]]></content>
-    <description>setup</description>
+    <description>p5:setup</description>
     <scope>source.js</scope>
     <tabTrigger>setup</tabTrigger>
 </snippet>

@@ -3,7 +3,7 @@
     return ${2:fieldName};
 }
 ]]></content>
-    <description>get</description>
+    <description>p5:get</description>
     <scope>source.js</scope>
     <tabTrigger>get</tabTrigger>
 </snippet>

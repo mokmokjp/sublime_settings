@@ -2,7 +2,7 @@
     <content><![CDATA[void keyPressed() {
 	${1}
 }]]></content>
-    <description>keyPressed</description>
+    <description>p5:keyPressed</description>
     <scope>source.js</scope>
     <tabTrigger>key</tabTrigger>
 </snippet>

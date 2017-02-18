@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[print('${1:content}');]]></content>
-    <description>print</description>
+    <description>p5:print</description>
     <scope>source.js</scope>
     <tabTrigger>print</tabTrigger>
 </snippet>

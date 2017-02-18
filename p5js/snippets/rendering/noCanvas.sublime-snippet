@@ -2,7 +2,7 @@
     <content><![CDATA[
 noCanvas();
 ]]></content>
-    <description>noCanvas</description>
+    <description>p5:noCanvas</description>
     <scope>source.js</scope>
     <tabTrigger>noCanvas</tabTrigger>
 </snippet>

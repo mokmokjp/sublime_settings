@@ -2,7 +2,7 @@
     <content><![CDATA[void mouseDragged() {
 	${1}
 }]]></content>
-    <description>mouseDragged</description>
+    <description>p5:mouseDragged</description>
     <scope>source.js</scope>
     <tabTrigger>mouse</tabTrigger>
 </snippet>

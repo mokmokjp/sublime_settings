@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[strokeWeight(${1:weight});]]></content>
-    <description>strokeWeight</description>
+    <description>p5:strokeWeight</description>
     <scope>source.js</scope>
     <tabTrigger>strokeWeight</tabTrigger>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[noTint();]]></content>
-    <description>noTint</description>
+    <description>p5:noTint</description>
     <scope>source.js</scope>
     <tabTrigger>notint</tabTrigger>
 </snippet>

@@ -3,7 +3,7 @@
     ${1:fieldName} = new${1/./\u$0/};
 }
 ]]></content>
-    <description>set</description>
+    <description>p5:set</description>
     <scope>source.js</scope>
     <tabTrigger>set</tabTrigger>
 </snippet>

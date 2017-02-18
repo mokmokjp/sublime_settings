@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[mag(${1:a}, ${2:b}${4:, ${3:c}});]]></content>
-    <description>mag</description>
+    <description>p5:mag</description>
     <scope>source.js</scope>
     <tabTrigger>mag</tabTrigger>
 </snippet>

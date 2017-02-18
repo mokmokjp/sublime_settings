@@ -2,7 +2,7 @@
     <content><![CDATA[
 createGraphics(${1:w}, ${2:h});
 ]]></content>
-    <description>createGraphics</description>
+    <description>p5:createGraphics</description>
     <scope>source.js</scope>
     <tabTrigger>createGraphics</tabTrigger>
 </snippet>

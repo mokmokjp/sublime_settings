@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[year()]]></content>
-    <description>year</description>
+    <description>p5:year</description>
     <scope>source.js</scope>
     <tabTrigger>time</tabTrigger>
 </snippet>

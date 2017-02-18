@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[sphereDetail(${1:n});]]></content>
-    <description>sphereDetail</description>
+    <description>p5:sphereDetail</description>
     <scope>source.js</scope>
     <tabTrigger>sphere</tabTrigger>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[frameRate($0);]]></content>
-    <description>frameRate (set)</description>
+    <content><![CDATA[frameRate(${0:fps});]]></content>
+    <description>p5:frameRate (set)</description>
     <scope>source.js</scope>
     <tabTrigger>framerate</tabTrigger>
 </snippet>

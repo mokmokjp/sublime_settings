@@ -2,7 +2,7 @@
     <content><![CDATA[
 resizeCanvas(${1:w}, ${2:h});
 ]]></content>
-    <description>resizeCanvas</description>
+    <description>p5:resizeCanvas</description>
     <scope>source.js</scope>
     <tabTrigger>resizeCanvas</tabTrigger>
 </snippet>

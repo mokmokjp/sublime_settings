@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[rotateZ(${1:rad});]]></content>
-    <description>rotateZ</description>
+    <description>p5:rotateZ</description>
     <scope>source.js</scope>
     <tabTrigger>rotate</tabTrigger>
 </snippet>

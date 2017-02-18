@@ -2,7 +2,7 @@
     <content><![CDATA[
 blendMode(${1:BLEND,ADD,DARKEST,LIGHTEST,DIFFERENCE,EXCLUSION,MULTIPLY,SCREEN,REPLACE,OVERLAY,HARD_LIGHT,SOFT_LIGHT,DODGE,BURN});
 ]]></content>
-    <description>blendMode</description>
+    <description>p5:blendMode</description>
     <scope>source.js</scope>
     <tabTrigger>blendMode</tabTrigger>
 </snippet>

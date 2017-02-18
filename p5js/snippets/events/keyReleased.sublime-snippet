@@ -2,7 +2,7 @@
     <content><![CDATA[void keyReleased() {
 	${1}
 }]]></content>
-    <description>keyReleased</description>
+    <description>p5:keyReleased</description>
     <scope>source.js</scope>
     <tabTrigger>key</tabTrigger>
 </snippet>

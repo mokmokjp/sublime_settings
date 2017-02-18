@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[endShape(${1:mode});]]></content>
-    <description>endShape</description>
+    <description>p5:endShape</description>
     <scope>source.js</scope>
     <tabTrigger>endshape</tabTrigger>
 </snippet>

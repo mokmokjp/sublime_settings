@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[rectMode(${1:CENTER});]]></content>
-	<description>rectMode</description>
+	<description>p5:rectMode</description>
 	<scope>source.js</scope>
 	<tabTrigger>rect</tabTrigger>
 </snippet>

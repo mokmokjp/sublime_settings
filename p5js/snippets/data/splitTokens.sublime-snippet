@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[splitTokens(${3:str}${5:, ${4:tokens}});]]></content>
-    <description>splitTokens</description>
+    <description>p5:splitTokens</description>
     <scope>source.js</scope>
     <tabTrigger>split</tabTrigger>
 </snippet>

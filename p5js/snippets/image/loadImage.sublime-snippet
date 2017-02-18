@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[loadImage(${1:filename});]]></content>
-    <description>loadImage</description>
+    <description>p5:loadImage</description>
     <scope>source.js</scope>
     <tabTrigger>loadimage</tabTrigger>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[hour()]]></content>
-    <description>hour</description>
+    <description>p5:hour</description>
     <scope>source.js</scope>
     <tabTrigger>time</tabTrigger>
 </snippet>

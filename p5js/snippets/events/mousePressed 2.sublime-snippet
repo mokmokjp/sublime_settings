@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[mousePressed]]></content>
-    <description>mousePressed</description>
+    <description>p5:mousePressed</description>
     <scope>source.js</scope>
     <tabTrigger>mouse</tabTrigger>
 </snippet>

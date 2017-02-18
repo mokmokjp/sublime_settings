@@ -2,7 +2,7 @@
     <content><![CDATA[
 textStyle(${1:NORMAL,ITALIC,BOLD});
 ]]></content>
-    <description>textStyle</description>
+    <description>p5:textStyle</description>
     <scope>source.js</scope>
     <tabTrigger>textStyle</tabTrigger>
 </snippet>

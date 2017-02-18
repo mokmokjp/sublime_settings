@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[arc(${1:x}, ${2:y}, ${3:width}, ${4:height}, ${5:start}, ${6:stop}, ${7:(OPEN, CHORD, PIE)});]]></content>
-    <description>arc</description>
+    <description>p5:arc</description>
     <scope>source.js</scope>
     <tabTrigger>arc</tabTrigger>
 </snippet>

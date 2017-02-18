@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[min(${1:array}};]]></content>
-    <description>min array</description>
+    <description>p5:min array</description>
     <scope>source.js</scope>
     <tabTrigger>min</tabTrigger>
 </snippet>
