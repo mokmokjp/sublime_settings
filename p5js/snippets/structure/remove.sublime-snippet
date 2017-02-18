@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[remove();]]></content>
+    <description>p5:remove</description>
+    <scope>source.js</scope>
+    <tabTrigger>remove</tabTrigger>
+</snippet>

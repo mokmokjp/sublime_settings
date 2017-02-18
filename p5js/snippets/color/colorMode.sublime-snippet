@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[colorMode(${1:RGB,HSB}, ${3:max1}, ${4:max2}, ${5:max3}, ${6:maxalpha});]]></content>
+    <description>p5:colorMode</description>
+    <scope>source.js</scope>
+    <tabTrigger>colorMode</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[function preload() {
+    ${1:statement;}
+}]]></content>
+    <description>p5:preload</description>
+    <scope>source.js</scope>
+    <tabTrigger>preload</tabTrigger>
+</snippet>
