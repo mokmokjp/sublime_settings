@@ -1,0 +1,10 @@
+<snippet>
+    <content>!function () {
+  var script = document.createElement("script");
+  script.setAttribute("src", "//code.jquery.com/jquery-2.0.0.min.js");
+  document.body.appendChild(script);
+}();</content>
+    <description>chrome_console_snippet_jquery</description>
+    <scope></scope>
+    <tabTrigger>chrome_console_snippet_jquery</tabTrigger>
+</snippet>
