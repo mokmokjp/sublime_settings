@@ -10,6 +10,19 @@
     { "keys": ["ctrl+down"], "command": "select_lines", "args": {"forward": true} },
     { "keys": ["ctrl+shift+a"], "command": "expand_selection", "args": {"to": "tag"} },
     { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+    // コマンド実行
+    // VPN接続する
+    { "keys": ["ctrl+alt+c", "ctrl+alt+v"],
+        "command": "exec",
+        "args": {
+            "cmd": "java -Dwebdriver.gecko.driver=pathTogeckodriver.exe Dwebdriver.ie.driver=pathToIEDriverServer.exe -jar pathToselenium-html-runner-3.4.0.jar -htmlSuite *iexplore baseURL pathToTestSuite pathToTestResult",
+            "shell": true }},
+    // VPN接続を切る
+    { "keys": ["ctrl+alt+c", "ctrl+alt+x"],
+        "command": "exec",
+        "args": {
+            "cmd": "java -Dwebdriver.gecko.driver=pathTogeckodriver.exe Dwebdriver.ie.driver=pathToIEDriverServer.exe -jar pathToselenium-html-runner-3.4.0.jar -htmlSuite *iexplore baseURL pathToTestSuite pathToTestResult",
+            "shell": true }},
     // Package: Browser Refresh
     { "keys": ["f5"], "command": "browser_refresh", "args": {
         "auto_save": true,
