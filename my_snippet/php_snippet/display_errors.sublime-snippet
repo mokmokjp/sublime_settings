@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+ini_set("display_errors", On);
+error_reporting(E_ALL);
+]]></content>
+    <description>エラーを表示させる</description>
+    <scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php meta.function-call.php, meta.group.php, string.quoted.single.php, meta.string-contents.quoted.single.php</scope>
+    <tabTrigger>display_errors</tabTrigger>
+</snippet>
