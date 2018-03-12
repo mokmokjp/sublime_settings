@@ -1,4 +1,121 @@
 // SublimeLinter Settings - User
 {
-    
+    "debug": false,
+    "delay": 0.25,
+    "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+    "lint_mode": "background",
+    "linters":
+    {
+        "csslint":
+        {
+            "@disable": false,
+            "args":
+            [
+            ],
+            "errors": "",
+            "excludes":
+            [
+            ],
+            "ignore": "",
+            "warnings": ""
+        },
+        "eslint":
+        {
+            "@disable": false,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+            ]
+        },
+        "htmltidy":
+        {
+            "@disable": false,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+            ]
+        },
+        "jshint":
+        {
+            "@disable": false,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+            ]
+        },
+        "php":
+        {
+            "@disable": false,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+            ]
+        },
+        "phpcs":
+        {
+            "@disable": true,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+            ],
+            "standard": "PSR2"
+        },
+        "phplint":
+        {
+            "@disable": false,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+            ]
+        },
+        "phpmd":
+        {
+            "@disable": true,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+            ],
+            "rulesets": "cleancode,codesize,controversial,design,naming,unusedcode"
+        }
+    },
+    "no_column_highlights_line": false,
+    "paths":
+    {
+        "linux":
+        [
+        ],
+        "osx":
+        [
+        ],
+        "windows":
+        [
+        ]
+    },
+    "show_marks_in_minimap": true,
+    "syntax_map":
+    {
+        "html (django)": "html",
+        "html (rails)": "html",
+        "html 5": "html",
+        "javascript (babel)": "javascript",
+        "magicpython": "python",
+        "php": "html",
+        "python django": "python",
+        "pythonimproved": "python"
+    }
 }
+
