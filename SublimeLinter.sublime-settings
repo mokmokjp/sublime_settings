@@ -8,7 +8,7 @@
     {
         "csslint":
         {
-            "@disable": false,
+            "disable": false,
             "args":
             [
             ],
@@ -21,7 +21,7 @@
         },
         "eslint":
         {
-            "@disable": false,
+            "disable": true,
             "args":
             [
             ],
@@ -31,7 +31,7 @@
         },
         "htmltidy":
         {
-            "@disable": false,
+            "disable": false,
             "args":
             [
             ],
@@ -41,7 +41,7 @@
         },
         "jshint":
         {
-            "@disable": false,
+            "disable": false,
             "args":
             [
             ],
@@ -51,7 +51,7 @@
         },
         "php":
         {
-            "@disable": false,
+            "disable": false,
             "args":
             [
             ],
@@ -61,7 +61,7 @@
         },
         "phpcs":
         {
-            "@disable": true,
+            "disable": true,
             "args":
             [
             ],
@@ -72,7 +72,7 @@
         },
         "phplint":
         {
-            "@disable": false,
+            "disable": false,
             "args":
             [
             ],
@@ -82,7 +82,7 @@
         },
         "phpmd":
         {
-            "@disable": true,
+            "disable": true,
             "args":
             [
             ],
