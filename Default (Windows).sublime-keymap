@@ -10,6 +10,7 @@
     { "keys": ["ctrl+down"], "command": "select_lines", "args": {"forward": true} },
     { "keys": ["ctrl+shift+a"], "command": "expand_selection", "args": {"to": "tag"} },
     { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+    { "keys": ["ctrl+q"], "command": "find_under" },
     // コマンド実行
     // VPN接続する
     { "keys": ["ctrl+alt+c", "ctrl+alt+v"],
