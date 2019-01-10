@@ -53,7 +53,7 @@
 		"LiveReload",
 		"LiveStyle",
 		"Markdown Extended",
-		"Markdown Preview",
+		"MarkdownPreview",
 		"Material Theme",
 		"Monokai Extended",
 		"MySQL Snippets",
@@ -102,6 +102,7 @@
 		"Web Audio API Autocomplete",
 		"WinSCP",
 		"WordPress",
-		"WordPress Developer Resources"
+		"WordPress Developer Resources",
+		"YUI Compressor"
 	]
 }
