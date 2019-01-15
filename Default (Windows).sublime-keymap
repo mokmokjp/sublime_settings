@@ -11,6 +11,7 @@
     { "keys": ["ctrl+shift+a"], "command": "expand_selection", "args": {"to": "tag"} },
     { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
     { "keys": ["ctrl+1"], "command": "find_under" },
+    { "keys": ["alt+delete"], "command": "delete_trailing_spaces" },
     // コマンド実行
     // VPN接続する
     { "keys": ["ctrl+alt+c", "ctrl+alt+v"],

@@ -1,6 +1,6 @@
 {
-	// 全角スペースをハイライト表示
-	"trailing_spaces_regexp": "　|[\t]+",
-	// 行末のスペースをコメント色でハイライト表示
+	// 行末のスペース、全角スペースをハイライト表示
+    "trailing_spaces_regexp": "　|[ \t]+",
+	// コメント色でハイライト表示
 	"trailing_spaces_highlight_color" : "comment"
 }
