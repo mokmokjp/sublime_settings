@@ -2,6 +2,8 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Abacus",
+		"Theme - Monokai"
 	],
 	"installed_packages":
 	[
