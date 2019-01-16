@@ -7,7 +7,6 @@
 	],
 	"installed_packages":
 	[
-		"Abacus",
 		"Alignment",
 		"All Autocomplete",
 		"ApacheConf",
@@ -94,7 +93,6 @@
 		"SyncedSideBar",
 		"Terminal",
 		"Theme - Flatland",
-		"Theme - Monokai",
 		"Theme - Soda",
 		"Theme - Spacegray",
 		"TortoiseGit Context Integration",
