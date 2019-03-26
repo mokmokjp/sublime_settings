@@ -13,8 +13,10 @@
 	"ignored_packages":
 	[
 		"Evernote",
+		"HTMLBeautify",
 		"SublimeLinter-contrib-eslint",
-		"Vintage"
+		"Vintage",
+		"YUI Compressor"
 	],
 	"indent_to_bracket": true,
 	"line_padding_top": 5,
