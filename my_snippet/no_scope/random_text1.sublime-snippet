@@ -1,0 +1,10 @@
+<snippet>
+    <content>文字とは、情報を伝達し記録するために線や点を使って形作られた記号のことである。
+2016年現在時点で確認されている最古級の文字は、紀元前三千数百年程度の遺物が存在している楔形文字やヒエログリフである。
+それより遡る文字の候補とでも言うべきか、さらに古い時代の「文字っぽい」遺物も見つかってはいる。だがそれら楔形文字やヒエログリフと違って、後の時代で使用されている文字との連続性がなかったり、あるいは発見されている絶対数が少なすぎるなどの理由から「文字というほどの複雑性のない、ただの何らかの標識では」という疑惑が拭いさられていない。
+</content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>random_text1</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope></scope>
+</snippet>
