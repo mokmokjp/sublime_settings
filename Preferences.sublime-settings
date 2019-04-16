@@ -13,10 +13,10 @@
 	"ignored_packages":
 	[
 		"Evernote",
+		"Hayaku - tools for writing CSS faster",
 		"HTMLBeautify",
 		"SublimeLinter-contrib-eslint",
-		"Vintage",
-		"YUI Compressor"
+		"Vintage"
 	],
 	"indent_to_bracket": true,
 	"index_files": false,
