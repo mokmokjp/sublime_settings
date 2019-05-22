@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+transition: ${1:(property)all} ${2:(duration)0s} ${3:(timing-function)ease} ${4:(delay)0s};
+]]></content>
+    <description>一括指定</description>
+    <tabTrigger>transition</tabTrigger>
+    <scope>text.html, source.scss, source.css</scope>
+</snippet>
