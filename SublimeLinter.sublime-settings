@@ -41,7 +41,7 @@
         },
         "jshint":
         {
-            "disable": false,
+            "disable": true,
             "args":
             [
             ],
