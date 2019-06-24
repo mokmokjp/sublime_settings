@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+@keyframes ${1:animation-name} {
+    0% {
+    }
+    100% {
+    }
+}
+]]></content>
+    <description>キーフレームアニメーションの定義</description>
+    <tabTrigger>keyframes</tabTrigger>
+    <scope>text.html, source.scss, source.css</scope>
+</snippet>

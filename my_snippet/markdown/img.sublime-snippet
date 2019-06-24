@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+[![](${1:path})](${1:path})
+<!-- {a:data-fancybox="gellery"} -->
+]]></content>
+    <description>imgfancybox</description>
+    <scope>text.html.markdown meta.paragraph.markdown</scope>
+    <tabTrigger>imgfancybox</tabTrigger>
+</snippet>
